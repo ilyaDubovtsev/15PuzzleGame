@@ -61,9 +61,6 @@ void Form::newGame()
 
     layout->update();
 
-//    game->hide();
-//    game->show();
-
     resize(sizeHint());
 }
 
