@@ -21,8 +21,6 @@
         <file>tiles/7.png</file>
         <file>tiles/8.png</file>
         <file>tiles/9.png</file>
-        <file>tiles/exit.png</file>
-        <file>tiles/new.png</file>
         <file>tiles/15.png</file>
     </qresource>
 </RCC>
